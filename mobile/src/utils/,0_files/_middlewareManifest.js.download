@@ -1,0 +1,1 @@
+self.__MIDDLEWARE_MANIFEST=(function(a){return [["\u002Fdevlinks",a],["\u002Fdiscover",a],["\u002Fevents\u002F[slug]",a],["\u002Fjornada-primeira-vaga",a],["\u002Fplus",a],["\u002Fplus\u002Fcreator",a],["\u002Fretrospective",a]]}(false));self.__MIDDLEWARE_MANIFEST_CB&&self.__MIDDLEWARE_MANIFEST_CB()
