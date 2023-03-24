@@ -3,6 +3,7 @@ import dayjs from "dayjs";
 export function generateDatesFromYearBeginning(): Date[] | undefined {
     const firstDayOfTheYear = dayjs().startOf('year')
     const today = new Date()
+    
 
     const dates = []
     let compareDate = firstDayOfTheYear
@@ -14,7 +15,7 @@ export function generateDatesFromYearBeginning(): Date[] | undefined {
     }
     return dates.length > 0 ? dates : undefined
 
-    const sumarryDate: Date[] = generateDatesFromYearBeginning() ?? [];
+    
     
 
 }
